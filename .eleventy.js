@@ -19,7 +19,6 @@ module.exports = function (config) {
     "src/assets/img": "assets/img",
     "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js":
       "assets/js/bootstrap.js",
-    "node_modules/@midzer/tobii/dist/tobii.min.js": "assets/js/lightbox.js",
     "src/assets/js": "assets/js",
   });
 

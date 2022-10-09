@@ -4,5 +4,3 @@ var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
   return new bootstrap.Tooltip(tooltipTriggerEl)
 });
 
-// Initialize lightbox
-// const tobii = new Tobii();
