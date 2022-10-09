@@ -1,0 +1,13 @@
+// Place your own CSS or SCSS below this line.
+
+
+
+.tech-icons {
+    width: clamp(36px, 4vw, 48px);
+    height: clamp(36px, 4vw, 48px);
+    fill: white;
+}
+
+.icon-label-size {
+    font-size: clamp(10px, 3vw, 16px);
+}
