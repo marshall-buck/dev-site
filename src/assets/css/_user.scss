@@ -14,9 +14,9 @@
 
 
 a.icon-link > svg {
-    width: 24px;
-    height: 24px;
-    fill: $primary;
+    // width: 24px;
+    // height: 24px;
+    fill: black;
 }
 
 // a.icon-link > * {
@@ -39,3 +39,11 @@ div.contact  svg:hover {
     scale: 1.1;
 
 }
+
+
+.btn-sm, .btn-group-sm>.btn {
+
+    --bs-btn-padding-y: .1rem;
+    border-radius: .25rem;
+
+ }
